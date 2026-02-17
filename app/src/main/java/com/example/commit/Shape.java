@@ -5,5 +5,4 @@ public abstract class Shape {
     public int y;
 
     public String color = "Vantablack";
-
 }
